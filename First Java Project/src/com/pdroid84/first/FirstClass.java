@@ -3,6 +3,6 @@ package com.pdroid84.first;
 public class FirstClass {
 
 	public static void main(String[] args) {
-	    System.out.println("Hello Eclipsed  R!");
+	    System.out.println("Hello Eclipse!");
 	  }
 }
